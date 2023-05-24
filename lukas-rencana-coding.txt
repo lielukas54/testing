@@ -4,7 +4,8 @@ RENCANA CODING LUKAS
   * Membuat website
 - Netbeans
   * Membuat aplikasi
-  * Membuat tombol enter berfungsi
+  * Membuat tombol enter dapat berfungsi
+  * Membuat program menjadi exe
 - PHP
   * Membuat website
 - Sublime Text
