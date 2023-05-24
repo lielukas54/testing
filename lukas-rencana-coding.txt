@@ -1,0 +1,10 @@
+RENCANA CODING LUKAS
+
+- Javascript
+  * Membuat website
+- Netbeans
+  * Membuat aplikasi
+- PHP
+  * Membuat website
+- Sublime Text
+  * Membuat website
