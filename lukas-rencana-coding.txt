@@ -4,7 +4,7 @@ RENCANA CODING LUKAS
   * Membuat website
 - Netbeans
   * Membuat aplikasi
-- PHP
-  * Membuat website
+  * Membuat Program
+  * Membuat Javascript
 - Sublime Text
   * Membuat website
